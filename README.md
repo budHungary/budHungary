@@ -1,4 +1,9 @@
-## Hi there 👋
+I'm an engineer who loves to learn and build things that others find useful.
+
+Creator of the [Svecosystem](/) - where a few of us are building and maintaining useful open source libraries and tools for the Svelte ecosystem. 
+
+Notable projects I've created and or actively maintain
+
 
 <!--
 **budHungary/budHungary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
